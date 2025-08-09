@@ -1,5 +1,5 @@
 # Kitsune
-
+Google wallet 
 ![Status Sustain](https://img.shields.io/badge/Status-Sustain-green)
 
 Kitsune is the platform that powers [SuMo (support.mozilla.org)](https://support.mozilla.org)
